@@ -1,11 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Domine);
+@import url(https://fonts.googleapis.com/css2?family=Bitter);
 
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Domine';
+    font-family:'Bitter';
+    font-size: 24
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -37,8 +39,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
