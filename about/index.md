@@ -2,4 +2,4 @@
 layout: default
 title: rapatar, Хорда
 ---
-![rapatar](https://i.imgur.com/b4lmMRu.jpg)
+![rapatar](https://imgur.com/a/Y6kbSbw)
