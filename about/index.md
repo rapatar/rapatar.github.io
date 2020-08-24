@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dadash Mukhatrov, Notochord
+title: Дадаш Мухтаров, Хорда
 ---
 ![rapatar](https://i.imgur.com/b4lmMRu.jpg)

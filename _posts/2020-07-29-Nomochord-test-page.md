@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notochord. Chapter One. Terror
+title: Хорда. Глава первая. Террор
 date: 2020-07-29
 ---
 

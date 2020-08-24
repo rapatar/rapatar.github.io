@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notochord. Chapter number. Chapter name
+title: Хорда.
 date: 2020-07-29
 ---
 
-#Notochord
+#Хорда

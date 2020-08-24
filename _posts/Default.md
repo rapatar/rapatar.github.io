@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notochord. Chapter number. Chapter name
+title: Хорда. Номер главы. Название главы
 date: 2020-07-29
 ---
 
