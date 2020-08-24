@@ -5,7 +5,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Domine';
+    font-family: 'Open Sans', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -37,8 +37,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
