@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Domine);
+@import url(https://fonts.googleapis.com/css2?family=Russo+One);
 @import url(https://fonts.googleapis.com/css2?family=Bitter);
 
 body {
@@ -6,7 +6,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Bitter';
+    font-family:'Russo+One';
     font-size: 24;
     padding: 20px;
     list-style: none;
@@ -20,14 +20,14 @@ a {
     text-decoration: none;
     color: #999;
 }
-div {font-family: Domine
+div {font-family:'Russo+One'
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Domine';
+    font-family:'Russo+One';
 }
 p {
     font-size: 1.5em;
