@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Дадаш Мухтаров, Хорда
+title: rapatar, Хорда
 ---
 ![rapatar](https://i.imgur.com/b4lmMRu.jpg)
