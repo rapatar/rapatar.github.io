@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Номер главы. Название главы
-date: 2020-07-29
+date: YYYY-MM-DD
 ---
 
 Default template for chapters
 
 This web-site currently is under construction
-
-
