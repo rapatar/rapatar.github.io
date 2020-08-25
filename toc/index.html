@@ -3,12 +3,9 @@ layout: default
 title: Хорда
 ---
 	<h1>{{ page.title }}</h1>
-	{% if post.blog != null %}
-	{% else %}
 	<ul class="posts">
 
-	  {% for post in site.posts reversed%}
+	 <!-- delete for post enaable {% for post in site.posts reversed%}
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-
+-->
 	</ul>
-	 {% endif %}
