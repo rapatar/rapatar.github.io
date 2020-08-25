@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat);
 
-header-background{
+header-background {
   width: 100%;
-  height: 99;
+  height: 99px;
   background:url('https://rapatar.eu.org/cord.png');
 }
 body {
