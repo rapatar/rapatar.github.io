@@ -4,6 +4,15 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.responsive { 
+  <!-- use this image tag for responsive images
+  <img src="img_nature.jpg" alt="Nature" class="responsive" width="600" height="200">
+  -->
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 nav ul, footer ul {
     font-family:'Montserrat';
     font-size: 26;
