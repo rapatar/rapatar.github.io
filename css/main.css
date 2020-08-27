@@ -1,5 +1,8 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat);
 
+html {
+  scroll-behavior: smooth;
+}
 body {
     margin: 60px auto;
     width: 70%;
