@@ -3,9 +3,7 @@
 html {
   scroll-behavior: smooth;
 }
-.element {
-  background: url(https://rapatar.eu.org/cord.png) top right/700px 125px no-repeat;
-}
+
 body {
     margin: 60px auto;
     width: 70%;
