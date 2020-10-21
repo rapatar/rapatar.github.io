@@ -8,8 +8,7 @@ body {
 nav ul, footer ul {
     font-family:'Montserrat';
     font-size: 20;
-    padding: 20px;
-    width: 80%;
+
     list-style: none;
 
 }
