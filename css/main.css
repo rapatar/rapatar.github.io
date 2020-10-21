@@ -2,13 +2,13 @@
 
 body {
     margin: 60px auto;
-    width: 80%;
+    width: 90%;
 }
 
 nav ul, footer ul {
     font-family:'Montserrat';
     font-size: 20;
-
+    padding: 20px;
     list-style: none;
 
 }
