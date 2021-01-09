@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db433505a591b225",
+        "id": "48da29dbf5e7e978",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01. Draft/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,13 +40,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Сибиол",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c57c83871ab5d87c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -66,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Draft/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,13 +85,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "810ff484f3b4de08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16fb835c3fd74516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Draft/Untitled.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "01. Draft/Untitled.md",
+    "01. Draft/Фабула.md",
+    "50. Objects/#Dem-9.md",
+    "50. Objects/Dem-9.md",
+    "10. Daily/2021-01-09.md",
+    "50. Objects/Сибиол.md",
+    "50. Objects/Beanstalk.md",
+    "Untitled.md",
+    "верит.md",
+    "Dem-9.md"
+  ]
 }
