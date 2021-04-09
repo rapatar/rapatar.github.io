@@ -9,8 +9,8 @@ title: Curriculum Vitae
 
 --------------------------------------------------------------------------------
 
-- 📞 tel: **+99455 4110417** (WhatsApp, Telegram)
-- ✉ e-mail: **dadash.mukhtarov@gmail.com**
+- :telephone_receiver: tel: **+99455 4110417** (WhatsApp, Telegram)
+- :email: e-mail: **dadash.mukhtarov@gmail.com**
 - Date of birth: **17.07.1989**
 - Marital status : **Married**
 - Address: **Baku, Mirjalal st. 47, apt. 54**
@@ -89,8 +89,6 @@ Donut training, Safety Training Observation, Manual Handling, Banksman Slinger, 
 --------------------------------------------------------------------------------
 
 <br>
-
-
 
 <div align="right">last review: 16.03.2021</div>
 
