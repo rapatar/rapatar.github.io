@@ -1,7 +1,6 @@
----
-layout: default
-title: Curriculum Vitae
----
+--------------------------------------------------------------------------------
+
+layout: default title: Curriculum Vitae ---''
 
 # Dadash Mukhtarov
 
