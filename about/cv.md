@@ -93,7 +93,7 @@ Donut training, Safety Training Observation, Manual Handling, Banksman Slinger, 
 <div align="right">last review: 16.03.2021</div>
 
 <div align="right">
-  <a href="http://rapatar.org.eu/files/Dadash_Mukhtarov_CV.pdf">download latest version</a>
+  <a href="https://rapatar.eu.org/files/Dadash_Mukhtarov_CV.pdf">download latest version</a>
 </div>
 
 <br>
