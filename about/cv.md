@@ -1,4 +1,5 @@
 ---
+layout: neutral
 title: Curriculum Vitae
 ---
 
