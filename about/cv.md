@@ -9,8 +9,8 @@ title: Curriculum Vitae
 
 --------------------------------------------------------------------------------
 
-- :telephone_receiver: tel: **+99455 4110417** (WhatsApp, Telegram)
-- :email: e-mail: **dadash.mukhtarov@gmail.com**
+- ☎ tel: **+99455 4110417** (WhatsApp, Telegram)
+- ✉ e-mail: **dadash.mukhtarov@gmail.com**
 - Date of birth: **17.07.1989**
 - Marital status : **Married**
 - Address: **Baku, Mirjalal st. 47, apt. 54**
