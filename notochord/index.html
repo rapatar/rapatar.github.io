@@ -8,7 +8,7 @@ title: Хорда
 <ul class="posts">
 
 {% for post in site.posts reversed %}
-{% if post.notochord == 'notochord' %}
+{% if post.post == 'notochord' %}
       <di
     <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
