@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: chapters
 title: Глава первая. Террор
 date: 2020-07-29T00:00:00.000Z
 ---
