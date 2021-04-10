@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: chapter
 title: Номер главы. Название главы
 date: YYYY-MM-DD
 ---

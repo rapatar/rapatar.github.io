@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: chapter
 title: Глава третья. Тохум
-date: 2020-08-28
+date: 2020-08-28T00:00:00.000Z
 ---
 
 Глава третья
