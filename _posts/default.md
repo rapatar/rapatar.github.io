@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Номер главы. Название главы
 date: YYYY-MM-DD
 ---
