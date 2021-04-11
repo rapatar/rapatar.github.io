@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about rapatar
+title: about. rapatar
 ---
 
 Этот сайт все еще находится под разработкой.
