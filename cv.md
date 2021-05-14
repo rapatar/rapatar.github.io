@@ -2,7 +2,31 @@
 
 --------------------------------------------------------------------------------
 
-> ☎ tel: **+99455 4110417** ([WhatsApp](http://wa.me/994554110417), [Telegram](https://t.me/rapatar)) ✉ e-mail: **dadash.mukhtarov@gmail.com** Date of birth: **17.07.1989** Marital status : **Married** Address: **Baku, Mirjalal st. 47, apt. 54** **B** category Driving license. [UKOOA](https://www.ukooa.co.uk/) medical obtained. [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate. [ORCA](https://orcaoffshore.org/) certified Forklift driver. [SQA](https://sqagroup.az/) Banksman and Slinger certificate. Software skills: **RMS** (Rig Management System), **Windows OS**, **Microsoft Office**. Excellent command of **Azerbaijani** and **Russian**, upper intermediate level **English**. Graduated from **Baku State University** (2007-2011) **Military service**: 2011-2012
+> ☎ tel: **+99455 4110417**([WhatsApp](http://wa.me/994554110417), [Telegram](https://t.me/rapatar))
+>
+> ✉ e-mail: **dadash.mukhtarov@gmail.com**
+>
+> Date of birth: **17.07.1989**
+>
+> Marital status : **Married**
+>
+> Address: **Baku, Mirjalal st. 47, apt. 54**
+>
+> *B** category Driving license.
+>
+> [UKOOA](https://www.ukooa.co.uk/) medical obtained.
+>
+> [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate.
+>
+> [ORCA](https://orcaoffshore.org/) certified Forklift driver.
+>
+> [SQA](https://sqagroup.az/) Banksman and Slinger certificate.
+>
+> Software skills: **RMS** (Rig Management System),**Windows OS**, **Microsoft Office**.
+>
+> Excellent command of **Azerbaijani** and **Russian**, upper intermediate level **English**.
+>
+> Graduated from **Baku State University** (2007-2011) **Military service**: 2011-2012
 
 ## Professional summary:
 
@@ -64,7 +88,7 @@ Responsibilities include:
 
 ### Professional Development:
 
-Donut Safeland Rescue training, Safety Observation, Manual Handling, Banksman & Slinger, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
+Donut Safeland Rescue training, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
 
 ### Soft skills:
 
