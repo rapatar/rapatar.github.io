@@ -34,7 +34,7 @@ Benefiting from experience being employed on various operations within some tech
 
 --------------------------------------------------------------------------------
 
-### Presently working as a Pumpman with CDC Ltd. since December 2019 at Haydar Aliyev rig for BP.
+### Presently working as a Pumpman with CDC Ltd. since December 2019 at Haydar Aliyev and Satti MODUs for BP.
 
 Responsibilities include:
 
@@ -53,7 +53,7 @@ Responsibilities include:
 
 --------------------------------------------------------------------------------
 
-### Worked as a Floorman with CDC Ltd. from December 2014 to November 2019 at Dada Gorgud, Haydar Aliyev rig for BP and Total.
+### Worked as a Floorman with CDC Ltd. from December 2014 to November 2019 at Dada Gorgud, Haydar Aliyev MODU for BP and Total.
 
 Responsibilities include:
 
@@ -67,7 +67,7 @@ Responsibilities include:
 
 --------------------------------------------------------------------------------
 
-### Worked as a Roustabout with CDC Ltd. from May 2013 to December 2014 at Istiglal rig for BP.
+### Worked as a Roustabout with CDC Ltd. from May 2013 to December 2014 at Istiglal MODU for BP.
 
 Responsibilities include:
 
