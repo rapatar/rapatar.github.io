@@ -34,7 +34,7 @@ Benefiting from experience being employed on various operations within some tech
 
 --------------------------------------------------------------------------------
 
-### Presently working as a Pumpman with CDC Ltd. since December 2019 at Haydar Aliyev and Satti MODUs for BP.
+### Presently working as a Pumpman with CDC Ltd. since December 2019 at Haydar Aliyev and Satti MODU for BP.
 
 Responsibilities include:
 
