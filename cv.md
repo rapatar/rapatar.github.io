@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: empty
 ---
 
 # Dadash Mukhtarov
