@@ -81,7 +81,7 @@ Responsibilities include:
 
 ### Professional Development:
 
-Donut Safeland Rescue training, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
+Donut Safeland Rescue, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
 
 ### Soft skills:
 
