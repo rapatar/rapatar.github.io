@@ -14,4 +14,4 @@ title: Documents
 - [Место жительства](https://www.rapatar.eu.org/docs/residence.pdf)
 - [Зарегистрированный транспорт](https://www.rapatar.eu.org/docs/vehicle.pdf)
 - [Пенсия](https://www.rapatar.eu.org/docs/superannuation.pdf)
-- [Вакцианция](https://www.rapatar.eu.org/docs/id_card.pdf)
+- [Вакцианция]- (<https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf>)
