@@ -36,8 +36,24 @@ Benefiting from experience being employed on various operations within some tech
 
 --------------------------------------------------------------------------------
 
-### Presently working as a Pumpman with CDC Ltd. since December 2019 at Haydar Aliyev and Satti MODU for BP.
+### Presently working as a SubSea Engineer with CDC Ltd. since August 2022 at Dada Gorgud MODU for Lukoil.
+Responsibilities include:
+- Assist with the correct assembly, operation, maintenance, testing and disconnection of the subsea blowout preventer, marine riser and related equipment.
+- Maintain and repair heave compensating equipment.
+- Maintain subsea running and retrieving tools and supervise the running and retrieving of all subsea equipment.
+- Ensure planned maintenance is carried out per Senior SSE / SSE instructions.
+- Ensure good housekeeping in area of responsibility.
+- Calculate ton cycles for tensioner wires (if applicable), implementing and recording slip and cut program.
+- Prepare BOP test reports.
+- Participate in operational meetings.
+- Consult with the Senior Subsea Engineer / Subsea Engineer regarding the operations forecast.
+- Complete work log on a daily basis.
+- Ensure the appropriate barriers are in place and the relative announcement made on the PA system prior to the commencement of critical operations.
+- Carry out other duties as requested by Senior SSE / SSE.
 
+--------------------------------------------------------------------------------
+
+### Worked as a Pumpman with CDC Ltd. from December 2019 to August 2022 at Haydar Aliyev and Satti MODU for BP.
 Responsibilities include:
 
 - Working on derrick while tripping.
