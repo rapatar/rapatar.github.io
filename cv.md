@@ -107,7 +107,7 @@ Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critica
 
 --------------------------------------------------------------------------------
 
-<div align="right">last review: 02.06.2021</div>
+<div align="right">last review: 26.09.2022</div>
 
 <div align="right">
   <a href="https://rapatar.eu.org/files/Dadash_Mukhtarov_CV.pdf">download latest version</a>
