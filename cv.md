@@ -27,7 +27,7 @@ title: Dadash Mukhtarov - CV
 
 Benefiting from experience being employed on various operations within some technically demanding environments in the Caspian Sea. Assisting in all drilling operations on floating units. Well stimulation work and all types of workover. Work on upgrade and maintenance of Jack-Ups ("Satti") and semi-submersibles ("Istiglal", "Dada Gorgud", "Haydar Aliyev"). Assisting in the upgrading and installation of Derrick extensions, Automatic racking systems, Traveling block, Crown compensators and Sub-sea BOPs. Up-to-date on all training courses and professional exams.
 
-- 8 years experience offshore drilling within the oil and gas industry. Started as a Roustabout.
+- 9 years experience offshore drilling within the oil and gas industry. Started as a Roustabout.
 - Assisting the Driller in operating and maintenance of set targets within safety standards.
 - Also Offshore Safety Representative for drilling constituents, experienced in all current practices including TOFS, COSHH, PTW, LOLLER, FOCUS, JRA.
 - Planning and measuring site run pipework and supports.
