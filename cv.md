@@ -13,7 +13,7 @@ title: Dadash Mukhtarov - CV
 - Marital status : **Married**
 - Address: **Baku, Mirjalal st. 47, apt. 54**
 - **B** category Driving license.
-- **IWCF** level 3 [certificate](https://iwcf-forum.org/Assess/External/eCertDetails.aspx?ECR=DL3SS-00122793-SA-IWDB)
+- **IWCF** level 3 [certificate](https://iwcf-forum.org/Assess/External/eCertDetails.aspx?ECR=DL3SS-00122793-SA-IWDB).
 - [UKOOA](https://www.ukooa.co.uk/) medical obtained.
 - **Covid-19 Vaccination status**: [Vaccinated.](https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf)
 - [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate.
