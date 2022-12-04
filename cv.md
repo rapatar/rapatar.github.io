@@ -37,7 +37,7 @@ Benefiting from experience being employed on various operations within some tech
 
 --------------------------------------------------------------------------------
 
-### Presently working as a SubSea Engineer with CDC Ltd. since August 2022 at Dada Gorgud MODU for Lukoil.
+### Presently working as a SubSea Engineer with CDC Ltd. since August 2022 at Dada Gorgud MODU for Zhenis Operating.
 Responsibilities include:
 - Assist with the correct assembly, operation, maintenance, testing and disconnection of the subsea blowout preventer, marine riser and related equipment.
 - Maintain and repair heave compensating equipment.
