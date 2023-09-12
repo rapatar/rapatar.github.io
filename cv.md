@@ -10,6 +10,7 @@ aliases: CV
 - Marital status : **Married**
 - Address: **Azerbaijan, Baku, Mirjalal st. 47, apt. 54**
 - **B** category Driving license.
+- Seaman's passport
 - [UKOOA](https://www.ukooa.co.uk/) medical obtained.
 - **Covid-19 Vaccination status**: [Vaccinated.](https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf)
 - [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate.
@@ -31,7 +32,7 @@ Benefiting from experience being employed on various operations within some tech
 - Planning and measuring site run pipework and supports.
 - Good working knowledge of valves and pumps, isolation and de-isolation, tag-out, lock-out.
 - Responsible for taking readings and samples from various instrumentation on valve manifold systems.
-  
+
 ---
 ### Presently working as a SubSea Engineer with CDC Ltd. Haydar Aliyev MODU for BP since May 2023, from August 2022 to May 2023 at Dada Gorgud MODU for Zhenis Operating.
 #### Responsibilities include:
@@ -73,6 +74,7 @@ Benefiting from experience being employed on various operations within some tech
 - Assist service hands on rigging up and running: Casing, Wireline, Cement job, BHA, Various Wellhead assemblies.
 - Assist Sub-sea engineers on maintenance BOP stack, LRMP, Risers, Riser tensioners, Fail-safe valves, Bonnets, Rams, Accumulators, BOP control panel, Connectors, Flex Joints, Telescopic Joint, Kill&Choke manifold.
 - Operating equipment: "Iron Roughneck", "Tubular feeding machine", BOP carrier trolley and bridge crane, air and hydraulic tugger winchs.
+
 ### Worked as a Roustabout with CDC Ltd. from May 2013 to December 2014 at Istiglal MODU for BP.
 #### Responsibilities include:
 - Mixing chemicals for making drilling fluid.
@@ -80,8 +82,10 @@ Benefiting from experience being employed on various operations within some tech
 - Assist in crane operation.
 - Chipping, cleaning & painting.
 - Assist personnel in maintenance jobs.
+
 ### Professional Development:
 Donut Safeland Rescue, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
+
 ### Soft skills:
  Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critical thinking, Responsibility.
 
