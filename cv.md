@@ -12,7 +12,7 @@ aliases: CV
 > - **B** category Driving license.
 > - **Seaman's** passport.
 > - [UKOOA](https://www.ukooa.co.uk/) medical obtained.
-> - [Covid-19 fully Vaccinated](https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf)
+> - [Covid-19 fully Vaccinated.](https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf)
 > - [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate.
 > - [ORCA](https://orcaoffshore.org/) certified Forklift driver.
 > - [SQA](https://sqagroup.az/) Banksman and Slinger certificate.
@@ -84,10 +84,10 @@ Benefiting from experience being employed on various operations within some tech
 > - Assist personnel in maintenance jobs.
 
 ### Professional Development:
-Donut Safeland Rescue, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
+> Donut Safeland Rescue, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
 
 ### Soft skills:
-Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critical thinking, Responsibility.
+> Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critical thinking, Responsibility.
 
 <div align="right">last review: 11.09.2023</div>
 
