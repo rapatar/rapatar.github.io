@@ -31,6 +31,7 @@ Benefiting from experience being employed on various operations within some tech
 - Planning and measuring site run pipework and supports.
 - Good working knowledge of valves and pumps, isolation and de-isolation, tag-out, lock-out.
 - Responsible for taking readings and samples from various instrumentation on valve manifold systems.
+  
 ---
 ### Presently working as a SubSea Engineer with CDC Ltd. Haydar Aliyev MODU for BP since May 2023, from August 2022 to May 2023 at Dada Gorgud MODU for Zhenis Operating.
 #### Responsibilities include:
