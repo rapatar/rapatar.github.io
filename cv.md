@@ -20,8 +20,8 @@ aliases: CV
 - Graduated from **Baku State University** (2007-2011)
 - **Military service**: 2011-2012
 ## Well control certificates:
-> - **IADC** Supervisor level [certificate](https://www.rapatar.eu.org/files/iadc.pdf)
-> - **IWCF** level 3 [certificate](https://www.rapatar.eu.org/files/iwcf.pdf)
+> - [**IADC** Supervisor level](https://www.rapatar.eu.org/files/iadc.pdf)
+> - [**IWCF** level 3](https://www.rapatar.eu.org/files/iwcf.pdf)
 
 ## Professional summary:
 Benefiting from experience being employed on various operations within some technically demanding environments in the Caspian Sea. Assisting in all drilling operations on floating units. Well stimulation work and all types of workover. Work on upgrade and maintenance of Jack-Ups ("Satti") and semi-submersibles ("Istiglal", "Dada Gorgud", "Haydar Aliyev"). Assisting in the upgrading and installation of Derrick extensions, Automatic racking systems, Traveling block, Crown compensators and Sub-sea BOPs. Up-to-date on all training courses and professional exams.
