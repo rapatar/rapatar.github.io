@@ -33,7 +33,7 @@ Benefiting from experience being employed on various operations within some tech
 - Responsible for taking readings and samples from various instrumentation on valve manifold systems.
 ---
 ### Presently working as a SubSea Engineer with CDC Ltd. Haydar Aliyev MODU for BP since May 2023, from August 2022 to May 2023 at Dada Gorgud MODU for Zhenis Operating.
-Responsibilities include:
+#### Responsibilities include:
 - Assist with the correct assembly, operation, maintenance, testing and disconnection of the subsea blowout preventer, marine riser and related equipment.
 - Maintain and repair heave compensating equipment.
 - Maintain subsea running and retrieving tools and supervise the running and retrieving of all subsea equipment.
