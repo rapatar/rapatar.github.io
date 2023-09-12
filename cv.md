@@ -87,7 +87,7 @@ Benefiting from experience being employed on various operations within some tech
 Donut Safeland Rescue, Safety Observation, Manual Handling, Confined spaces, High Pressure Washdown Gun, Falls and Falling Objects, Working at height, Operating "Cherry picker".
 
 ### Soft skills:
- Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critical thinking, Responsibility.
+Self-discipline, Leadership, Time management, Teamwork, Problem solving, Critical thinking, Responsibility.
 
 <div align="right">last review: 11.09.2023</div>
 
