@@ -47,6 +47,7 @@ Benefiting from experience being employed on various operations within some tech
 - Complete work log on a daily basis.
 - Ensure the appropriate barriers are in place and the relative announcement made on the PA system prior to the commencement of critical operations.
 - Carry out other duties as requested by Senior SSE / SSE.
+
 ### Worked as a Pumpman with CDC Ltd. from December 2019 to August 2022 at Haydar Aliyev and Satti MODU for BP.
 #### Responsibilities include:
 - Working on derrick while tripping.
