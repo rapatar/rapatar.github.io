@@ -1,7 +1,7 @@
 ---
 layout: empty
 title: Dadash Mukhtarov - CV
-aliases: CV
+aliases: CV, Resume
 ---
 # Dadash Mukhtarov - Subsea engeneer
 > - ☎ tel: **+99455 4110417** ([WhatsApp](http://wa.me/994554110417), [Telegram](https://t.me/rapatar))
