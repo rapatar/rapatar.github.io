@@ -10,7 +10,7 @@ aliases: CV
 - Marital status : **Married**
 - Address: **Azerbaijan, Baku, Mirjalal st. 47, apt. 54**
 - **B** category Driving license.
-- Seaman's passport
+- Seaman's passport.
 - [UKOOA](https://www.ukooa.co.uk/) medical obtained.
 - **Covid-19 Vaccination status**: [Vaccinated.](https://www.rapatar.eu.org/files/covid-19_vaccination_card.pdf)
 - [OPITO](https://opito.com/) ([OTI](http://www.oti.az/)) FOET certificate.
