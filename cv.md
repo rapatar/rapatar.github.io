@@ -61,6 +61,7 @@ Benefiting from experience being employed on various operations within some tech
 - Assist driller in achieving a clean wellbore by adjusting drilling fluid properties and air drilling volume and pressure.
 - Carry out repairs to the fluid end of the mud pumps and to the valves in the LP mud system.
 - Assist in installation and movement of B.O.P. equipment.
+
 ---
 ### Worked as a Floorman with CDC Ltd. from December 2014 to November 2019 at Dada Gorgud, Haydar Aliyev MODU for BP and Total.
 #### Responsibilities include:
